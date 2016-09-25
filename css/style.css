@@ -38,6 +38,10 @@ form {
 	color: #666;
 }
 
+.footer div a:hover {
+	text-decoration: underline;
+}
+
 
 .footerLeft {
 	position: relative;
